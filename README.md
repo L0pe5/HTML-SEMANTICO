@@ -22,45 +22,45 @@
 
 ## Lista obrigatória de tags semânticas (todas devem aparecer pelo menos 1 vez)
 
-- "<!DOCTYPE html> e <html lang="pt-br">"
+- "!DOCTYPE html" e "html lang="pt-br""
 
-"<header>"
+"header"
 
-"<nav>" (com uma lista de links)
+"nav" (com uma lista de links)
 
-"<main>"
+"main"
 
-"<section>"
+"section"
 
-"<article>"
+"article"
 
-"<aside>"
+"aside"
 
-"<footer>"
+"footer"
 
-"<h1>" a "<h3>" (uso hierárquico correto)
+"h1" a "h3" (uso hierárquico correto)
 
-"<p>", "<strong>", "<em>"
+"p", "strong", "em"
 
-"<figure>" e "<figcaption>" (com uma imagem em assets/)
+"figure" e "figcaption" (com uma imagem em assets/)
 
-"<img>" com alt adequado
+"img" com alt adequado
 
-"<time>" (com atributo datetime)
+"time" (com atributo datetime)
 
-"<address>"
+"address"
 
-"<table>", "<caption>", "<thead>", "<tbody>", "<tfoot>" (tabela simples de dados relacionados)
+"table", "caption", "thead", "tbody", "tfoot" (tabela simples de dados relacionados)
 
-"<details>" e "<summary>"
+"details" e "summary"
 
-"<mark>"
+"mark"
 
-"<abbr>" (com title)
+"abbr" (com title)
 
-"<form>" com "<fieldset>" e "<legend>" (pelo menos um campo input e um button)
+"form" com "fieldset" e "legend" (pelo menos um campo input e um button)
 
-"<dialog>" (uso demonstrativo; pode ser aberto via botão)
+"dialog" (uso demonstrativo; pode ser aberto via botão)
 
 Bônus técnico: usar atributos ARIA relevantes (role, aria-label, aria-describedby) em ao menos 3 elementos para reforçar acessibilidade — explique cada uso no README.
 
@@ -74,4 +74,4 @@ README.md contendo explicações: breve descrição do projeto, por que cada tag
 
 Comentários no código HTML explicando o uso de cada tag (como descrito nas instruções).
 
-Arquivos de mídia na pasta assets/ (pelo menos 1 imagem usada em <figure>).
+Arquivos de mídia na pasta assets/ (pelo menos 1 imagem usada em "figure").
