@@ -62,16 +62,16 @@
 
 "dialog" (uso demonstrativo; pode ser aberto via botão)
 
-Bônus técnico: usar atributos ARIA relevantes (role, aria-label, aria-describedby) em ao menos 3 elementos para reforçar acessibilidade — explique cada uso no README.
+## Bônus técnico: usar atributos ARIA relevantes (role, aria-label, aria-describedby) em ao menos 3 elementos para reforçar acessibilidade — explique cada uso no README.
 
-Entregáveis
+### Entregáveis
 
-index.html funcional que ilustre um site pequeno com as tags acima.
+- index.html funcional que ilustre um site pequeno com as tags acima.
 
-styles.css com estilos mínimos (não precisa ser complexo, mas organize visualmente os elementos).
+- styles.css com estilos mínimos (não precisa ser complexo, mas organize visualmente os elementos).
 
-README.md contendo explicações: breve descrição do projeto, por que cada tag foi usada e justificativas sobre acessibilidade/SEO.
+- README.md contendo explicações: breve descrição do projeto, por que cada tag foi usada e justificativas sobre acessibilidade/SEO.
 
-Comentários no código HTML explicando o uso de cada tag (como descrito nas instruções).
+- Comentários no código HTML explicando o uso de cada tag (como descrito nas instruções).
 
-Arquivos de mídia na pasta assets/ (pelo menos 1 imagem usada em "figure").
+- Arquivos de mídia na pasta assets/ (pelo menos 1 imagem usada em "figure").
